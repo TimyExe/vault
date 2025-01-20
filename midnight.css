@@ -658,6 +658,7 @@ button.button_dd4f85 /* small buttons */,
 }
 .childWrapper_f90abb {
 	background: var(--bg-5-image);
+	background-repeat: no-repeat-y;
 }
 .container_a4d4d9 > [style$='display: flex;'] > .guilds_a4d4d9 {
 	margin: 0;
