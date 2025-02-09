@@ -1,0 +1,1243 @@
+
+            /*background*/
+            BODY {
+                background-color: var(--bg-image, var(--bg-1))!important;
+                background-image: var(--bg-image, var(--bg-1))!important;
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-position: center;
+                font-family: var(--font-family);
+            }
+            DIV.button A,
+            A.button,
+            SPAN.button A {
+                padding-top: 0.27em;
+                padding-bottom: 0.27em;
+                line-height: 1.3rem;
+                padding-left: 0.75em;
+                padding-right: 0.75em;
+                vertical-align: middle;
+                box-sizing: border-box;
+                background-color: var(--bg-1);
+                background-image: url("");
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-top: var(--border);
+                border-left: var(--border);
+                border-right: var(--border);
+                border-bottom: var(--border);
+                color: var(--link-1);
+                border-radius: 0px;
+                cursor: pointer;
+                display: inline-block;
+                white-space: nowrap;
+            }
+            /*login page*/
+            .buttonHeader A:hover,
+            INPUT.buttonHeader:hover,
+            BUTTON.buttonHeader:hover {
+                padding-top: 0.27em;
+                padding-bottom: 0.27em;
+                line-height: 1.3rem;
+                padding-left: 0.75em;
+                padding-right: 0.75em;
+                vertical-align: middle;
+                box-sizing: border-box;
+                background-color: var(--bg-1);
+                background-image: url('');
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-top: 1px solid var(--outline-1);
+                border-left: 1px solid var(--outline-1);
+                border-right: 1px solid var(--outline-1);
+                border-bottom: 1px solid var(--outline-1);
+                color: #ffffff;
+                display: block;
+                margin-bottom: 0.1em;
+                white-space: nowrap;
+                text-align: left;
+            }
+            .buttonHeader A,
+            INPUT.buttonHeader,
+            BUTTON.buttonHeader {
+                padding-top: 0.27em;
+                padding-bottom: 0.27em;
+                line-height: 1.3rem;
+                padding-left: 0.75em;
+                padding-right: 0.75em;
+                vertical-align: middle;
+                box-sizing: border-box;
+                background-color: var(--bg-1);
+                background-image: url('');
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-top: 1px solid var(--outline-1);
+                border-left: 1px solid var(--outline-1);
+                border-right: 1px solid var(--outline-1);
+                border-bottom: 1px solid var(--outline-1);
+                color: #1b5c9e;
+                border-radius: 0px;
+                display: block;
+                margin-bottom: 0.1em;
+                white-space: nowrap;
+                text-align: left;
+            }
+            .lectioBorderBot,
+            .lectioBorderBot TD,
+            .lectioBorderBot TH {
+                border-bottom: solid 1px #c6c6c9;
+                color: var(--text-1);
+            }
+            html.cfkjbtul.idc0_350 body.volumecontrol-initialized table tbody tr td img {
+                opacity: 0%;
+            }
+
+            .ls-master-container1 {
+                background-color: var(--bg-1);
+                text-align: left;
+                padding: 0;
+                height: 100%;
+                margin-left: auto;
+                margin-right: auto;
+                display: table;
+            }
+          
+            @media only screen and (min-width: 1281px) {
+                body.masterbody {
+
+                    background: var(--bg1);
+                    background-color: var(--bg1);
+                    background-image: none;
+                    background-repeat: no-repeat;
+                    background-size: 100%;
+                    background-attachment: fixed;
+                }
+            }
+
+            SECTION.island {
+                background-color: var(--bg-1);
+                border: var(--border) solid #c6c6c9;
+                box-shadow: 0.2em 0.2em 0.2em rgba(0, 0, 0, 0.1);
+                box-sizing: border-box;
+                border-radius: var(--border-radius);
+                display: table;
+                border-collapse: separate;
+                padding: 0;
+            }
+            .list,
+            .ls-table-layout1 {
+                background-color: var(--bg-1);
+                border-style: solid;
+                border-width: 1px;
+                border-color: #e2e2e5;
+                border-collapse: collapse;
+                margin: 0;
+                margin-bottom: 0px;
+                margin-top: 0.4em;
+            }
+
+
+            SECTION.island .islandContent {
+                background-color: var(--bg-2);
+                border-radius: var(--border-radius);
+            }
+            .maintitle {
+                background-color: var(--bg-1);
+            }
+            .islandContent {
+                background-color: var(--bg-2);
+            }
+            
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.uryfvs.idc0_350 body.masterbody.volumecontrol-initialized div#masterContent.ls-master-container1 form#aspnetForm.ls-master-container2 div#s_m_outerContentFrameDiv.outerContentFrame div.ls-content-container div#contenttable.ls-content div.ls-std-island-layout-ltr section.mediumBlockFixed.defaultBlockHeight.island div#s_m_Content_Content_skemaIsland_pa.islandContent div a.s2skemabrik.s2bgbox.s2normal.s2brik.lec-context-menu-instance {
+                background-color: var(--bg-1);
+                color: var(--text-2);
+            }
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.uryfvs.idc0_350 body.masterbody.volumecontrol-initialized div#masterContent.ls-master-container1 form#aspnetForm.ls-master-container2 div#s_m_outerContentFrameDiv.outerContentFrame div.ls-content-container div#contenttable.ls-content div.ls-std-island-layout-ltr section.mediumBlockFixed.defaultBlockHeight.island div#s_m_Content_Content_skemaIsland_pa.islandContent div a.s2skemabrik.s2bgbox.s2changed.s2brik.lec-context-menu-instance {
+                background-color: var(--bg-1);
+                color: var(--text-2);
+            }
+
+
+            SECTION.island .islandHeaderContainer {
+                background-image: url('');
+                background-color: var(--bg-2);
+                color: var(--text-1);
+            }
+
+
+            SECTION.island .islandHeader {
+                color: var(--text-1);
+            }
+
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.uryfvs.idc0_350 body.masterbody.volumecontrol-initialized div#masterContent.ls-master-container1 form#aspnetForm.ls-master-container2 div#s_m_outerContentFrameDiv.outerContentFrame div.ls-content-container {
+
+                background-color: var(--bg-1);
+            }
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.uryfvs.idc0_350 body.masterbody.volumecontrol-initialized div#masterContent.ls-master-container1 form#aspnetForm.ls-master-container2 div#s_m_outerContentFrameDiv.outerContentFrame div#s_m_helptipDiv.ls-hidden-smallscreen {
+
+
+                background-color: var(--bg-1);
+            }
+
+            .ls-master-header {
+                background-color: var(--bg-1);
+                background-image: url('');
+                background-position: left top;
+                background-repeat: repeat-x;
+                margin: 0;
+                overflow: hidden;
+                padding: 0.3em;
+                height: 4em;
+                display: flex;
+                justify-content: space-between;
+
+            }
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.fpvenjn.idc0_350 body.masterbody.volumecontrol-initialized div#masterContent.ls-master-container1 form#aspnetForm.ls-master-container2 div#s_m_outerContentFrameDiv.outerContentFrame div.ls-content-container div#s_m_HeaderContent_subnav_div.ls-master-pageheader div#s_m_HeaderContent_subnav_innerdiv.ls-subnav-container nav#s_m_HeaderContent_subnavigator_navigatortbl.ls-subnav-container div#s_m_HeaderContent_subnavigator_generic_tr.ls-subnav1.ls-hidden-smallscreen{
+                
+                background-color: var(--bg-2) !important;
+                border-radius: 5px !important;
+                
+                
+            }
+
+            .ls-master-container2 a.ls-master-header-logo,
+            .ls-master-container2 a.ls-master-header-logo:hover,
+            .ls-master-container2 a.ls-master-header-logo:focus {
+                background-image: var(--lectio-logo);
+                background-position: right top;
+                background-repeat: no-repeat;
+                cursor: pointer;
+                background-color: transparent;
+                width: 7rem;
+                height: 4rem;
+                display: block;
+                outline: none;
+                border: none;
+            }
+
+            DIV.button A,
+            A.button,
+            SPAN.button A {
+                padding-top: 0.27em;
+                padding-bottom: 0.27em;
+                line-height: 1.3rem;
+                padding-left: 0.75em;
+                padding-right: 0.75em;
+                vertical-align: middle;
+                box-sizing: border-box;
+                background-color: var(--bg-2);
+                background-image: url('');
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-top: var(--border) #e2e2e5;
+                margin-right: var(--margin);
+                border-left: var(--border) #e2e2e5;
+                border-right: var(--border) #c6c6c9;
+                border-bottom: var(--border) #c6c6c9;
+                color: var(--link-1);
+                border-radius: var(--border-radius);
+                cursor: pointer;
+                display: inline-block;
+                white-space: nowrap;
+            }
+           
+            .lectioToolbar {
+                padding: 0em;
+                background-image: url('');
+                background-color: var(--bg-1);
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-bottom: var(--border) #c6c6c9;
+                border-top: var(--border);
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+            }
+            
+            #s_m_HeaderContent_subnav_innerdiv{
+                
+                background-color: var(--bg-2)!important;
+                border-radius: 5px;
+                
+                
+            }
+            #s_m_masterleftDiv{
+            height: 0px!important;
+            display: none;
+            }
+            
+            .ls-subnav1 {
+                border-bottom: var(--border) #d3dae0;
+            }
+            
+
+
+            .lectioBorderLeft {
+                border-left: var(--border) #c6c6c9;
+            }
+            .lectioBorderRight {
+                border-right: var(--border) #c6c6c9;
+            }
+            .ls-master-footer {
+                border-top: solid 1px #d3dae0;
+                background-color: var(--bg-1);
+
+                color: var(--text-1);
+            }
+
+            .ls-content-container {
+                background-color: var(--bg-1);
+            }
+            .ls-hidden-smallscreen {
+                background-color: var(--bg-1);
+            }
+            
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.hguaagc.idc0_350 body.masterbody.volumecontrol-initialized div#masterContent.ls-master-container1 form#aspnetForm.ls-master-container2 div#s_m_outerContentFrameDiv.outerContentFrame div.ls-content-container div#s_m_HeaderContent_subnav_div.ls-master-pageheader div#s_m_HeaderContent_subnav_innerdiv.ls-subnav-container nav#s_m_HeaderContent_subnavigator_navigatortbl.ls-subnav-container div#s_m_HeaderContent_subnavigator_generic_tr.ls-subnav1.ls-hidden-smallscreen{
+              background-color: var(--bg-2)!important;
+              border-radius: 5px;
+              
+            }
+            
+            
+            A.s2skemabrik.s2bgbox.s2normal {
+                border: none;
+                box-sizing: border-box;
+                border: solid 2px #fcfcff;
+                border: solid 2px transparent;
+                border-left-width: 2px;
+                border-left-style: solid;
+                border-left-color: transparent;
+                background-color: var(--bg-1);
+                border-left: solid 2px var(--text-2);
+                color: var(--text-2);
+                font-style: normal;
+                text-decoration: none;
+            }
+            A.s2skemabrik.s2bgbox.s2changed {
+                border: none;
+                box-sizing: border-box;
+                border: solid 2px #fcfcff;
+                border: solid 2px transparent;
+                border-left-width: 2px;
+                border-left-style: solid;
+                border-left-color: transparent;
+                background-color: var(--bg-1);
+                border-left: solid 2px var(--text-3);
+                color: @--md-ref-palette-custom360;
+                color: var(--text-3);
+                font-style: italic;
+                text-decoration: none;
+            }
+
+
+            /*text*/
+            A[href]:hover,
+            .ClientButton:hover,
+            A[href].alert:hover,
+            A[href].attention:hover {
+                background-color: #fff;
+                color: #ffffff;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.uryfvs.idc0_350 body.masterbody.volumecontrol-initialized div#masterContent.ls-master-container1 form#aspnetForm.ls-master-container2 footer#s_m_masterFooter.ls-master-footer.ls-hidden-smallscreen span#s_m_masterfootermacomSpan {
+
+                color: var(--text-1);
+            }
+            
+
+            .islandHeader {
+                color: var(--text-1);
+            }
+            .maintitle {
+                color: var(--text-1);
+            }
+
+            .islandContent {
+                color: var(--text-1);
+            }
+
+            .outerContentFrame {
+
+                background-color: var(--bg-1);
+            }
+
+            .ls-master-footer {
+
+                margin: 0rem;
+                padding: 0rem;
+                padding-top: 5rem;
+                background-color: var(--bg-1);
+            }
+
+
+
+
+            #s_m_masterFooter {
+                color: var(--text-1);
+                opacity: 0%;
+                display: none;
+            }
+            #s_m_masterfootermacomSpan {
+                color: var(--text-1);
+            }
+            #s_m_masterfootermacomsupportSpan {
+                color: var(--text-1);
+            }
+            #s_m_masterfooterversioninfoSpan {
+                color: var(--text-1);
+            }
+
+
+
+
+
+            /*main text*/
+            A[href],
+            .ClientButton,
+            A.tooltip,
+            A SPAN.tooltip {
+                color: var(--text-1);
+                cursor: pointer;
+            }
+            div.buttonlink a:link,
+            div.buttonlink a:visited {
+                color: var(--text-1);
+                padding: 0.5rem 0.2rem;
+                opacity: 1;
+                transition: background-color 0.3s ease, transform 0.3s ease;
+                transition: font-size 0.3s ease, transform 0.3s ease;
+            }
+             div.buttonlink a:hover {
+                color: var(--text-2);
+                background-color: var(--bg-3);
+                padding: 0.5rem 0.2rem;
+                opacity: 1;
+                font-size: 15px;
+                border-radius: 5px;
+                box-shadow: 0px 0px 0px 1px var(--outline-1)
+            }
+            .ls-master-container2 .ls-master-header-institution {
+                font-family: Verdana;
+                font-weight: bold;
+                color: var(--text-1);
+                font-size: 0.9em;
+                word-break: break-all;
+                white-space: normal;
+            }
+            
+            
+
+            .dashboardLinkHeader A:hover .dashboardLinkHeaderInfoText,
+            .dashboardLinkHeader A:hover .dashboardLinkHeaderAttentionText {
+                color: var(--hover-1);
+            }
+            A[href]:hover,
+            .ClientButton:hover,
+            A[href].alert:hover,
+            A[href].attention:hover {
+                background-color: var(--hover-1);
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+            /*Secondary?? */
+            .dashboardLinkHeaderInfoText {
+                float: right;
+                display: inline;
+                font-weight: normal;
+                color: var(--text-4);
+            }
+            .tooltips,
+            .tooltip {
+                cursor: help;
+                color: var(--text-4);
+            }
+
+            TABLE.dashboard TD.timeCol {
+                width: 8em;
+                white-space: nowrap;
+                text-align: right;
+                color: var(--text-4);
+            }
+
+
+            /*vigtigt !!! du har glemt at aflevere*/
+            .attention {
+                color: var(--text-5) !important;
+            }
+
+
+
+
+            /*active page*/
+            .ls-subnav1 .buttonlink.ls-subnav-active a,
+            .ls-subnav2 .buttonlink.ls-subnav-active a,
+            .ls-subnav1 .buttonlink.ls-subnav-active a:hover,
+            .ls-subnav2 .buttonlink.ls-subnav-active a:hover {
+                text-shadow: none;
+                border-bottom: solid 3px var(--bg-2);
+                color: var(--text-2);
+                background-color: transparent;
+                cursor: default;
+                opacity: 1;
+            }
+
+
+            /*skema*/
+            .ls-card-filled/*top bar*/
+            {
+                background-color: var(--bg-5);
+                color: var(--text-1);
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 400;
+                letter-spacing: 0.033rem;
+                line-height: 1.333rem;
+                box-sizing: border-box;
+                overflow: auto;
+                border-radius: 0.5rem;
+                padding: 0.875rem;
+                padding-right: 0.875rem;
+                padding-left: 0.875rem;
+                padding-left: 1.333rem;
+                padding-right: 1.333rem;
+                border: none;
+                box-shadow: none;
+            }
+
+
+            .s2skema .s2weekHeader td/*text*/
+            {
+                color: var(--text-1);
+                text-align: center;
+                vertical-align: middle;
+                padding: 0.5em;
+                border-bottom: solid 1px #c6c6c9;
+                padding: 0 0 0.25em 0;
+                background-image: none;
+                background-color: transparent;
+                border: none;
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 1.166rem;
+                line-height: 1.666rem;
+                letter-spacing: 0.008rem;
+            }
+
+
+            .s2skema .s2dayHeader TD {
+                background-color: var(--bg-2)!important;
+                color: var(--text-1)!important;
+                text-align: center;
+                font-weight: bold;
+                padding-top: 0.15em;
+                padding-bottom: 0.2em;
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 1.333rem;
+                letter-spacing: 0.042rem;
+            }
+
+            .s2skema .s2infoHeader {
+                background-color: var(--bg-2);
+                color: var(--text-1);
+                border-bottom: solid 1px var(--outline-1);
+                vertical-align: text-top;
+                padding-right: 0.3em;
+            }
+
+            .s2skemabrikcontainer {
+                background-color: var(--bg-2);
+            }
+
+            .s2time-off {
+                background-color: var(--bg-2);
+            }
+
+            .s2module-bg {
+                background-color: var(--bg-2);
+                border-top: solid 1px var(--outline-1);
+                border-bottom: solid 1px var(--outline-1);
+            }
+
+            .s2module-info {
+                color: var(--text-1);
+            }
+
+            /*aflyst*/
+            A.s2skemabrik.s2bgbox.s2cancelled {
+                color: var(--af-text);
+                font-style: italic;
+            }
+
+
+            A.s2skemabrik.s2bgbox.s2cancelled {
+                border: none;
+                box-sizing: border-box;
+                border: solid 2px var(--af-outline);
+                border: solid 2px transparent;
+                border-left-width: 2px;
+                border-left-style: solid;
+                border-left-color: transparent;
+                background-color: var(--af-bg);
+                border-left: solid 2px var(--af-outline-l);
+                color: var(--af-text);
+                font-style: italic;
+                text-decoration: line-through;
+            }
+
+            /*fravær*/
+            .list TR,
+            .ls-table-layout1 TR {
+                border: solid 1px var(--outline-1);
+                background: var(--bg-1);
+            }
+            /*opgaver*/
+            .separationCell,
+            .separationCell TD,
+            .separationCell TH {
+                background-color: var(--bg-1);
+            }
+            /*random shit*/
+            DIV.ls-container,
+            TABLE.form,
+            DIV.form,
+            DIV.panel,
+            TABLE.panel {
+                box-sizing: border-box;
+                border: 1px dotted var(--outline-1);
+                vertical-align: top;
+                padding: 0.8em;
+                margin: 0;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                margin-top: 0.35em;
+                margin-bottom: 0.35em;
+                overflow: visible;
+                height: 100%;
+                background-color: var(--bg-1);
+                border-radius: 0.4em;
+            }
+            .highlightarea TR:hover TD {
+                background-color: var(--hover-1);
+                border-bottom-color: #aaabae;
+            }
+            /*beskeder*/
+            .thread-header-container {
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 400;
+                letter-spacing: 0.033rem;
+                line-height: 1.333rem;
+                color: var(--text-1);
+            }
+            .message-thread-message-header {
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 1.333rem;
+                letter-spacing: 0.042rem;
+                font-weight: 600;
+                color: var(--text-1);
+            }
+            .message-thread-message-content {
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 400;
+                letter-spacing: 0.033rem;
+                line-height: 1.333rem;
+                color: var(--text-1);
+            }
+            .ls-control-textbox-multiline {
+                white-space: pre-wrap;
+                background: var(--bg-1);
+                color: var(--text-1);
+            }
+            button.buttonfilled:hover a,
+            div.buttonfilled:hover a,
+            button.buttonfilled a:hover,
+            div.buttonfilled a:hover {
+                background-color: var(--bg-2);
+                color: var(--text-1);
+                border: solid 1px var(--outline-2);
+                box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+            }
+            button.buttonfilled a:link,
+            div.buttonfilled a:link,
+            button.buttonfilled a:active,
+            div.buttonfilled a:active,
+            button.buttonfilled a:focus,
+            div.buttonfilled a:focus,
+            button.buttonfilled a:visited,
+            div.buttonfilled a:visited {
+                background-color: var(--bg-2);
+                color: var(--text-1);
+                border: solid 1px var(--outline-2);
+            }
+            button.buttonfilledtonal:hover a,
+            div.buttonfilledtonal:hover a,
+            button.buttonfilledtonal a:hover,
+            div.buttonfilledtonal a:hover {
+                background-color: var(--bg-3);
+                color: var(--text-2);
+                border: solid 1px var(--outline-2);
+                box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+            }
+            button.buttonfilledtonal a:link,
+            div.buttonfilledtonal a:link,
+            button.buttonfilledtonal a:visited,
+            div.buttonfilledtonal a:visited {
+                background-color: var(--bg-2);
+                color: var(--text-1);
+                border: solid 1px var(--outline-2);
+            }
+            .message-thread-container {
+                width: auto;
+                overflow: hidden;
+                background-color: var(--bg-1);
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 400;
+                letter-spacing: 0.033rem;
+                line-height: 1.333rem;
+                box-sizing: border-box;
+                overflow: auto;
+                border-radius: 0.5rem;
+                padding: 0.875rem;
+                padding-right: 0.875rem;
+                padding-left: 0.875rem;
+                padding-left: 1.333rem;
+                padding-right: 1.333rem;
+                border: none;
+                box-shadow: none;
+            }
+            .message-thread-message {
+                margin-bottom: 1.5rem;
+                border-color: var(--outline-1);
+                border-style: solid;
+                border-width: 1px;
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 400;
+                letter-spacing: 0.033rem;
+                line-height: 1.333rem;
+                box-sizing: border-box;
+                overflow: auto;
+                border-radius: 0.5rem;
+                padding: 0.875rem;
+                padding-right: 0.875rem;
+                padding-left: 0.875rem;
+                padding-left: 1.333rem;
+                padding-right: 1.333rem;
+                box-shadow: none;
+                background-color: var(--bg-1);
+            }
+            /*popup*/
+            .ui-widget-header {
+                background: var(--bg-1) url() 0% 0% repeat-x;
+                border: none;
+                color: var(--text-1);
+                font-weight: bold;
+                vertical-align: middle;
+                margin: 0em;
+                font-family: Verdana;
+            }
+
+            .ui-dialog .ui-dialog-content {
+                position: relative;
+                border: 0;
+                padding: 0.5em 1em;
+                background: none;
+                overflow: auto;
+                background: var(--bg-1);
+                color: var(--text-1);
+            }
+            html.mzr_csscolumns.mzr_csscolumns-width.mzr_csscolumns-span.mzr_csscolumns-fill.mzr_csscolumns-gap.mzr_csscolumns-rule.mzr_csscolumns-rulecolor.mzr_csscolumns-rulestyle.mzr_csscolumns-rulewidth.mzr_no-csscolumns-breakbefore.mzr_no-csscolumns-breakafter.mzr_no-csscolumns-breakinside.tfybqoj.idc0_350 body.masterbody.volumecontrol-initialized div.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons.ui-draggable div#ui-id-1.ui-dialog-content.ui-widget-content h3 {
+                color: var(--text-1);
+            }
+
+            .ui-widget-content {
+                border: 1px solid #dddddd;
+                border-top-width: 1px;
+                border-top-style: solid;
+                border-top-color: rgb(221, 221, 221);
+                border-right-width: 1px;
+                border-bottom-width: 1px;
+                border-left-width: 1px;
+                background: var(--bg-1);
+                background-image: none;
+                color: var(--text-1);
+            }
+
+
+
+            /*knap*/
+            .ui-dialog .ui-dialog-buttonpane .ui-state-hover,
+            .ui-dialog .ui-dialog-buttonpane .ui-button:hover {
+                padding-top: 0.27em;
+                padding-bottom: 0.27em;
+                line-height: 1.3rem;
+                padding-left: 0.75em;
+                padding-right: 0.75em;
+                vertical-align: middle;
+                box-sizing: border-box;
+                background-color: var(--bg-1);
+                background-image: url('s');
+                border-top: 1px solid var(--outline-1);
+                border-left: 1px solid var(--outline-1);
+                border-right: 1px solid var(--outline-1);
+                border-bottom: 1px solid var(--outline-1);
+                color: var(--text-1);
+                border-radius: 0px;
+                cursor: pointer;
+                display: inline-block;
+                white-space: nowrap;
+                background-color: var(--bg-1);
+                background-image: url('s');
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-top: 1px solid var(--outline-1);
+                border-left: 1px solid var(--outline-1);
+                border-right: 1px solid var(--outline-1);
+                border-bottom: 1px solid var(--outline-1);
+                color: var(--text-1);
+                transition: all 0.1s linear;
+            }
+
+            .ui-dialog .ui-dialog-buttonpane .ui-state-default,
+            .ui-dialog .ui-dialog-buttonpane .ui-button {
+                padding-top: 0.27em;
+                padding-bottom: 0.27em;
+                line-height: 1.3rem;
+                padding-left: 0.75em;
+                padding-right: 0.75em;
+                vertical-align: middle;
+                box-sizing: border-box;
+                background-color: var(--bg-1);
+                background-image: url('s');
+                border-top: 1px solid var(--outline-1);
+                border-left: 1px solid var(--outline-1);
+                border-right: 1px solid var(--outline-1);
+                border-bottom: 1px solid var(--outline-1);
+                color: var(--text-1);
+                border-radius: 0px;
+                cursor: pointer;
+                display: inline-block;
+                white-space: nowrap;
+                background-color: var(--bg-1);
+                background-image: url('s');
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-top: 1px solid var(--outline-1);
+                border-left: 1px solid var(--outline-1);
+                border-right: 1px solid var(--outline-1);
+                border-bottom: 1px solid var(--outline-1);
+                color: var(--text-1);
+                white-space: nowrap;
+            }
+
+
+            /*dropdown*/
+            select:focus,
+            select:hover {
+                background: var(--bg-1) url("") no-repeat top right;
+                background-size: 1.33em;
+                cursor: pointer;
+            }
+            select {
+                color: var(--text-1);
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                -o-appearance: none;
+                appearance: none;
+                background-color: var(--bg-1);
+                box-sizing: border-box;
+                padding-top: 0.083em;
+                padding-right: 0.25em;
+                padding-bottom: 0.083em;
+                padding-left: 0.25em;
+                min-height: 1.75em;
+                cursor: text;
+                outline: none;
+                background-image: none;
+                cursor: pointer;
+                overflow: auto;
+                background: var(--bg-1);
+                background-size: auto;
+                background-size: 1.33em;
+                padding-right: 1.5em;
+            }
+            option {
+                background-color: var(--bg-1);
+                color: var(--text-1);
+                box-sizing: border-box;
+                padding-top: 0.083em;
+                padding-right: 0.25em;
+                padding-bottom: 0.083em;
+                padding-left: 0.25em;
+                min-height: 1.75em;
+                cursor: text;
+                outline: none;
+                cursor: pointer;
+            }
+
+
+
+            input[type="text"],
+            input[type="tel"],
+            input[type="password"] {
+                background-color: var(--bg-1);
+                color: var(--text-1);
+                box-sizing: border-box;
+                padding-top: 0.083em;
+                padding-right: 0.25em;
+                padding-bottom: 0.083em;
+                padding-left: 0.25em;
+                min-height: 1.75em;
+                cursor: text;
+                outline: none;
+                height: 1.75em;
+                margin-right: 0.16em;
+            }
+
+            /*hovedmenu*/
+            .ls-card-elevated {
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 400;
+                letter-spacing: 0.033rem;
+                line-height: 1.333rem;
+                box-sizing: border-box;
+                overflow: auto;
+                border-radius: var(--border-radius);
+                padding: 0.875rem;
+                padding-right: 0.875rem;
+                padding-left: 0.875rem;
+                padding-left: 1.333rem;
+                padding-right: 1.333rem;
+                border: var(--border);
+                box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+                outline: 1px solid var(--outline-1);
+                background-color: var(--bg-2);
+                color: var(-text-1);
+            }
+            .ls-card-elevated div[role="heading"] > span:first-of-type {
+                color: var(--text-1);
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 1.333rem;
+                line-height: 2rem;
+                letter-spacing: 0.0125rem;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+
+
+            /*menu button hover*/
+            DIV.button A:hover,
+            A.button:hover,
+            SPAN.button A:hover,
+            DIV.buttonSelected A {
+                padding-top: 0.27em;
+                padding-bottom: 0.27em;
+                line-height: 1.3rem;
+                padding-left: 0.75em;
+                padding-right: 0.75em;
+                vertical-align: middle;
+                box-sizing: border-box;
+                color: var(--text-2);
+                background-image: url('s');
+                border-top: var(--border) var(--outline-2);
+                border-left: var(--border) var(--outline-2);
+                border-right: var(--border) var(--outline-2);
+                border-bottom: var(--border) var(--outline-2);
+                color: var(--text-1);
+
+                cursor: pointer;
+                display: inline-block;
+                white-space: nowrap;
+                color: var(--text-2);
+                background-image: url('s');
+                background-position: left top;
+                background-repeat: repeat-x;
+                border-top: var(--border) var(--outline-2);
+                border-left: var(--border) var(--outline-2);
+                border-right: var(--border) var(--outline-2);
+                border-bottom: var(--border) var(--outline-2);
+                border-radius: var(--border-radius);
+                background-color: var(--bg2);
+            }
+            div.helptip-button.buttonlink {
+                opacity: 0%;
+            }
+            /*time*/
+            .ls-texteditor-container {
+                background: var(--bg-1);
+                color: var(--text-1);
+                min-height: 80vh;
+            }
+            .ls-tocContainer-inner {
+                padding-right: 1.2rem;
+                padding-left: 0;
+                padding-bottom: 2rem;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                width: 100%;
+                position: -webkit-sticky;
+                position: sticky;
+                top: 1em;
+                overflow-y: auto;
+                overflow-x: hidden;
+                height: 97vh;
+                background: var(--bg-1);
+                color: var(--text-1);
+            }
+            .ls-paper {
+                border-radius: 2px;
+                box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px, rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+                background: var(--bg-1);
+                border: 1px solid var(--outline-1);
+                color: var(--text-1);
+                box-sizing: border-box;
+                padding: 1.8em;
+                padding-top: 1.8rem;
+                padding-bottom: 1.8rem;
+                padding-right: 2.2rem;
+                padding-left: 4.4rem;
+            }
+            .ls-tabs3 .lectioTabContent {
+                border: 1px solid var(--outline-1);
+                border-top-width: 1px;
+                border-top-style: solid;
+                border-top-color: var(--outline-1);
+                background: var(--bg-1);
+                color: var(--text-1);
+                padding-top: 1em;
+            }
+            textarea.activity-note[disabled] {
+                background-color: var(--bg-1);
+                border: solid 1px var(--outline-1);
+                color: var(--text-1);
+                padding: 0;
+                line-height: 1.4em;
+                margin-top: 0;
+                display: block;
+                overflow-wrap: break-word;
+                word-break: break-word;
+                min-height: 16px;
+                border-radius: 0.4em;
+                margin-right: 1rem;
+                margin-bottom: 1rem;
+                overflow-y: hidden;
+                resize: none;
+                margin-left: -1.2rem;
+                font-size: 12px;
+            }
+            .lc-display-fragment h1,
+            .lc-display-fragment h2,
+            .lc-display-fragment h3,
+            .lc-display-fragment h4 {
+                color: var(--text-1);
+                font-weight: 100;
+                line-height: 1;
+                margin-top: 1.2rem;
+                background: var(--bg-1);
+            }
+            .ls-tabs1 .lectioTabToolbar .button A[disabled="disabled"],
+            .ls-tabs2 .lectioTabToolbar .button A[disabled="disabled"],
+            .ls-tabs3 .lectioTabToolbar .button A[disabled="disabled"],
+            .ls-tabs4 .lectioTabToolbar .button A[disabled="disabled"],
+            .ls-tabs1 .lectioTabToolbar .button A[disabled="disabled"]:hover,
+            .ls-tabs2 .lectioTabToolbar .button A[disabled="disabled"]:hover,
+            .ls-tabs3 .lectioTabToolbar .button A[disabled="disabled"]:hover,
+            .ls-tabs4 .lectioTabToolbar .button A[disabled="disabled"]:hover {
+                text-shadow: none;
+                color: var(--text-2) !important;
+                border-top: solid 1px var(--outline-1);
+                border-left: solid 1px var(--outline-1);
+                border-bottom: solid 1px var(--outline-1);
+                margin-left: -1px;
+                background-color: var(--bg-1);
+            }
+            .toggleTocElementImg:hover {
+                background: var(--bg-1);
+                background-position-x: 0%;
+                background-position-y: 0%;
+                background-repeat: repeat;
+                background-image: none;
+                background-image: url('s');
+                background-repeat: no-repeat;
+                background-position: center;
+            }
+            .toggleTocElementImg {
+                background: var(--bg-1);
+                cursor: pointer;
+                background-image: url('/lectio/img/chevron_left.auto');
+                background-repeat: no-repeat;
+                background-position: center;
+                width: 0;
+                height: 0;
+                padding: 14px;
+                display: block;
+            }
+            .ls-tocContainer-outer {
+                background: var(--bg-1);
+                padding-top: 0.4em;
+                vertical-align: top;
+                max-width: 280px;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                width: 280px;
+                flex-shrink: 0;
+            }
+        }
+
+
+
+        html.sizopufwul.idc0_350 body.volumecontrol-initialized table tbody tr td img {
+            opacity: 0%;
+        }
+
+        html.sizopufwul.idc0_350 body.volumecontrol-initialized table tbody tr td {
+            background-image: url("");
+        }
+
+
+        /*studieplan*/
+        .ls-island-filled {
+            background-color: var(--bg-2);
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.033rem;
+            line-height: 1.333rem;
+            box-sizing: border-box;
+            overflow: auto;
+            border-radius: 0.5rem;
+            padding: 0.875rem;
+            padding-right: 0.875rem;
+            padding-left: 0.875rem;
+            padding-left: 1.333rem;
+            padding-right: 1.333rem;
+            border: none;
+            box-shadow: none;
+        }
+        .ls-island-outlined div.islandHeaderContainer[role="heading"] span.islandHeader,
+        .ls-island-filled div.islandHeaderContainer[role="heading"] span.islandHeader,
+        .ls-island-elevated div.islandHeaderContainer[role="heading"] span.islandHeader,
+        .ls-island-nostyle div.islandHeaderContainer[role="heading"] span.islandHeader {
+            color: var(--text-1);
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 1.333rem;
+            line-height: 2rem;
+            letter-spacing: 0.0125rem;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .yeartable tr th {
+          border: 1px solid #000;
+          font-family: Roboto;
+          font-style: normal;
+          font-weight: 500;
+          line-height: 1.333rem;
+          letter-spacing: 0.042rem;
+          color: var(--text-1);
+          text-align: center;
+          background-color: var(--bg-3) !important;
+        }
+        .colHeader table-row-fixed table-col-fixed{
+
+        background-color: var(--bg-3) !important;
+        color: var(--text-1);
+        }
+        .month{
+        background-color: var(--bg-3) !important;
+        color: var(--text-1);
+        }
+        .week{
+        background-color: var(--bg-3) !important;
+        color: var(--text-1);
+        }
+        .col exerciseCol{
+        background-color: var(--bg-3) !important;
+        color: var(--text-1);
+        }
+        .timevertical .col {
+          -ms-background-size: 84px 84px;
+          background-size: 84px 84px;
+          background-color: var(--bg-1) !important;
+          background-image: repeating-linear-gradient(0deg, transparent, transparent 23.8%, var(--bg-3) 25%, transparent 26%, transparent 48.8%, var(--bg-3)  50%, transparent 51%, transparent 73.8%, var(--bg-3)  75%, transparent 76%, transparent 98.8%, var(--bg-3)  100%);
+        }
+        .col phaseCol phaseColFirst{
+            background-color: var(--bg-3) !important;
+        color: var(--text-1);
+            
+        }
+        .yeartable {
+          border: 1px solid var(--outline-1);
+          border-collapse: collapse;
+          min-width: 450px;
+          background-color: var(--bg-2);
+        }
+        .phase {
+          border: 1px solid var(--outline-1);
+          vertical-align: middle;
+          position: absolute;
+          background-color: var(--bg-3);
+          overflow: hidden;
+          box-sizing: border-box;
+          white-space: normal;
+          text-align: left;
+          padding-left: 0.2rem;
+          padding-right: 0.2rem;
+          word-break: break-word;
+          hyphens: auto;
+          border-radius: 0.25rem;
+        }
+        .table-col-fixed-right{
+            background-color: var(--bg-3) !important;
+        color: var(--text-1);
+        }
+        .thisWeek{
+        background-color: var(--outline-1) !important;
+        color: var(--text-1);
+        }
+        
+        
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+            
+            
+
+
+
+
+
+
+
+
+
